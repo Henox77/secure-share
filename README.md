@@ -1,6 +1,7 @@
 # SecureShare - Gizlilik Odaklı Dosya Paylaşım Servisi
 
 SecureShare, kullanıcıların dosyalarını güvenli ve gizli bir şekilde paylaşmalarını sağlayan modern bir web uygulamasıdır. End-to-end şifreleme, otomatik silme ve kullanıcı dostu arayüz gibi özellikleriyle öne çıkar ve geliştirilmeye açıktır.
+"PROJENİN HATALARI BULUNABİLİR SİZ KENDİNİZE GÖRE DÜZELTİP FORKLAYABİLİRSİNİZ"
 
 ## 🌟 Özellikler
 
