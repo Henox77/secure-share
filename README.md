@@ -1,6 +1,6 @@
 # SecureShare - Gizlilik Odaklı Dosya Paylaşım Servisi
 
-SecureShare, kullanıcıların dosyalarını güvenli ve gizli bir şekilde paylaşmalarını sağlayan modern bir web uygulamasıdır. End-to-end şifreleme, otomatik silme ve kullanıcı dostu arayüz gibi özellikleriyle öne çıkar.
+SecureShare, kullanıcıların dosyalarını güvenli ve gizli bir şekilde paylaşmalarını sağlayan modern bir web uygulamasıdır. End-to-end şifreleme, otomatik silme ve kullanıcı dostu arayüz gibi özellikleriyle öne çıkar ve geliştirilmeye açıktır.
 
 ## 🌟 Özellikler
 
@@ -39,7 +39,7 @@ npm install
 ```env
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/secure-share
-JWT_SECRET=your-secret-key
+JWT_SECRET=your-secret-key (burada env dosyasını kullanmanıza gerek yok server.js dosyasında mongo urlsi icin yer var mongo urlnizi oraya giriniz)
 ```
 
 4. Uygulamayı başlatın:
@@ -86,6 +86,9 @@ Bu proje geliştirme amaçlı oluşturulmuştur. Prodüksiyon ortamında kullanm
 
 ## 📞 İletişim
 
-Proje Sahibi - [@github_username](https://github.com/Henox77)
+Proje Sahibi - [@Henox77](https://github.com/Henox77)
 
 Proje Linki: [https://github.com/Henox77/secure-share](https://github.com/Henox77/secure-share)
+
+## 📸 Site İçerisinden Fotoğraf
+Fotoğraf : https://i.imgur.com/qd4RYn6.png
