@@ -91,4 +91,4 @@ Proje Sahibi - [@Henox77](https://github.com/Henox77)
 Proje Linki: [https://github.com/Henox77/secure-share](https://github.com/Henox77/secure-share)
 
 ## 📸 Site İçerisinden Fotoğraf
-Fotoğraf : https://i.imgur.com/qd4RYn6.png
+Fotoğraf : [SecureShare Screenshot](https://i.imgur.com/qd4RYn6.png)
